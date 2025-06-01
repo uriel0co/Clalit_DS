@@ -43,7 +43,7 @@ clalit_ds_project/
    ```
 
 5. **Outputs:**  
-   - EDA plots will be shown.
+   - The EDA plots are available in the notebook and will be visible after cloning the repository. Currently, GitHub's preview does not display them properly.
    - Model metrics will print to console.
    - Model weights are saved in `models/`.
    - SHAP explainability plots for XGBoost will be shown.
