@@ -25,21 +25,24 @@ clalit_ds_project/
 ```
 
 ## How to Run
-
-1. **Install dependencies:**
+1. **Clone the Repo**
+    ```
+    git clone https://github.com/uriel0co/Clalit_DS.git
+    ```
+2. **Install dependencies:**
    ```
    pip install -r requirements.txt
    ```
 
-2. **Add the dataset**  
+3. **Add the dataset**  
    Place the `Prediction home assignment data.csv` file inside the `data/raw/` directory.
 
-3. **Run the project:**
+4. **Run the project:**
    ```
    python main.py
    ```
 
-4. **Outputs:**  
+5. **Outputs:**  
    - EDA plots will be shown.
    - Model metrics will print to console.
    - Model weights are saved in `models/`.
