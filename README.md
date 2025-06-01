@@ -37,12 +37,14 @@ clalit_ds_project/
 3. **Add the dataset**  
    Place the `Prediction home assignment data.csv` file inside the `data/raw/` directory.
 
-4. **Run the project:**
+4. **Check cloned EDA Notebook**
+
+5. **Run the project:**
    ```
    python main.py
    ```
 
-5. **Outputs:**  
+6. **Outputs:**  
    - The EDA plots are available in the notebook and will be visible after cloning the repository. Currently, GitHub's preview does not display them properly.
    - Model metrics will print to console.
    - Model weights are saved in `models/`.
