@@ -38,8 +38,9 @@ clalit_ds_project/
    Place the `Prediction home assignment data.csv` file inside the `data/raw/` directory.
 
 4. **Check cloned EDA Notebook**
+    ```
     eda_clalit.ipynb
-
+    ```
 5. **Run the project:**
    ```
    python main.py
