@@ -31,7 +31,7 @@ clalit_ds_project/
     ```
 2. **Install dependencies:**
    ```
-   pip install -r requirements.txt
+   pip install -r requirements.txt --user
    ```
 
 3. **Add the dataset**  
