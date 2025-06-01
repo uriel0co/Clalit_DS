@@ -5,7 +5,10 @@
 ```
 clalit_ds_project/
 │
+.
 ├── main.py
+├── README.md
+├── eda_clalit.ipynb
 ├── data/
 │   └── raw/
 │       └── Prediction home assignment data.csv
@@ -13,16 +16,12 @@ clalit_ds_project/
 │   ├── random_forest.pkl
 │   ├── xgboost.pkl
 │   ├── scaler.pkl
-│   └── label_encoder.pkl
+│   ├── label_encoder.pkl
 │   └── neural_net.pt
-
-├── src/
-│   ├── eda.py
-│   ├── preprocessing.py
-│   ├── modeling.py
-│   ├── explainability.py
-│   └── utils.py
-└── README.md
+└── src/
+    ├── preprocessing.py
+    ├── modeling.py
+    └── explainability.py
 ```
 
 ## How to Run
