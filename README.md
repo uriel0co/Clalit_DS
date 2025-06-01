@@ -14,6 +14,8 @@ clalit_ds_project/
 │   ├── xgboost.pkl
 │   ├── scaler.pkl
 │   └── label_encoder.pkl
+│   └── neural_net.pt
+
 ├── src/
 │   ├── eda.py
 │   ├── preprocessing.py
